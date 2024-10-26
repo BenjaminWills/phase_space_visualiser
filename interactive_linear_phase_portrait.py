@@ -241,7 +241,7 @@ dimension = 100  # 100 by 100 grid
 # dx/dt = 0x + y
 # dy/dt = x + 0y
 
-# matrix = np.array([[0, 1], [1, 0]])
+matrix = np.array([[0, 1], [1, 0]])
 
 # Define the system of equations for a stable node:
 # dx/dt = -x + y

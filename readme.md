@@ -9,3 +9,7 @@ The `phase_space.ipynb` file contians all the maths that went into this, the `in
 ```
 python interactive_linear_phase_portrait.py
 ```
+
+## What to expect
+
+<img width="571" alt="Screenshot 2024-10-26 at 22 17 49" src="https://github.com/user-attachments/assets/247457e8-8e1e-45d9-8ed4-d9abbdae3c13">
